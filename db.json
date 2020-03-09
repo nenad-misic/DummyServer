@@ -1,34 +1,35 @@
 {
-  "data": [
+  "children": [
     {
       "name" : "Mr",
-      "counter" : 1280,
+      "value" : 1280,
       "color" : "m"
     },
     {
       "name" : "Mrs",
-      "counter" : 100,
+      "value" : 100,
       "color" : "f"
     },
     {
       "name" : "Miss",
-      "counter" : 75,
+      "value" : 75,
       "color" : "f"
     },
     {
       "name" : "Ms",
-      "counter" : 22,
+      "value" : 22,
       "color" : "u"
     },
     {
       "name" : "Rev",
-      "counter" : 3,
+      "value" : 3,
       "color" : "u"
     },
     {
       "name" : "Dr",
-      "counter" : 7,
+      "value" : 7,
       "color" : "u"
     }
-  ]
+  ],
+  "name": "My data"
 }
