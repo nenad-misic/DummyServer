@@ -1,6 +1,5 @@
 {
-  "name": "My data",
-  "children": [
+  "data": [
     {
       "name" : "Mr",
       "counter" : 1280,
